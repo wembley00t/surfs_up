@@ -38,11 +38,14 @@ Two additional queries to provide more insight into the "silver tsunami" are sho
 
 The first query is to identify the number of employees retiring in the first year or 1952.
 
-![Additional query](https://user-images.githubusercontent.com/100876517/167326459-dd555df6-b7c4-4759-8bd0-a50b2383c7fd.png)
+![June Additional Query](https://user-images.githubusercontent.com/100876517/169728215-7df98802-4f13-4a2b-8698-71e272e6bd56.png)
+
+
+![Dec Additional Query](https://user-images.githubusercontent.com/100876517/169728307-259e20a7-e265-4bc3-9271-5855159abf21.png)
 
 The result of this query show there are 21,209 employees with the birth date in 1952 or the first year of the "silver 
 tsunami" to help the organization prepare by year.
-
+![June Precip DB](https://user-images.githubusercontent.com/100876517/169728237-c63ad956-63ec-488c-a68d-7c8d19a63176.png)![Dec Precip DB](https://user-images.githubusercontent.com/100876517/169728246-b353b834-fcb2-4f99-afc0-8ace6188b0b5.png)
 The original mentorship eligibility was based on birthdates in 1965.  The organization may want to consider employees
 eligible for mentorship with birthdates in 1964 as well to provide a larger employee population for mentorship.
 
