@@ -2,13 +2,13 @@
 
 ## Overview of Analysis
 
-W. Avy, a potential investor, for the Surf n'Shake Shop wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
+W. Avy, a potential investor, for the Surf n'Shake Shop wants more information about temperature trends before opening the surf shop in Hawaii. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
 
 This analysis will include:
 
-** Summary statistics for the month of June
-** Summary statistics for the month of December
-** Report for the analysis including two additional queries
+* Summary statistics for the month of June
+* Summary statistics for the month of December
+* Report for the analysis including two additional queries
 
 ## Results 
 
