@@ -30,13 +30,14 @@ The second table shows the level temperature statistics for the month of Decembe
 
 ## Summary
 
-In summary, there are 72,458 roles that will need to be filled as the "silver tsunami" begins to impact the
-organization.  There does not appear to be enough employees ready to step into these roles based on the
-mentorship analysis showing only 1,549 eligible for the program.
+In summary, the data shows that December is slightly cooler than June which is to be expected given the time of year.  However,
+the data also shows the temperature in the 25th percentile for June is 73 degrees compared to 69 for December.  While December
+may have some cooler days, the overall trends do not vary significantly.  The business plan should reflect lower volume for
+December based on temperature changes to be conservative.
 
-Two additional queries to provide more insight into the "silver tsunami" are shown below.
+Two additional queries to provide more insight into the weather for June and December show precipitation data for each month.
 
-The first query is to identify the number of employees retiring in the first year or 1952.
+The queries are highlighted below.
 
 ![June Additional Query](https://user-images.githubusercontent.com/100876517/169728215-7df98802-4f13-4a2b-8698-71e272e6bd56.png)
 
@@ -45,7 +46,10 @@ The first query is to identify the number of employees retiring in the first yea
 
 The result of this query show there are 21,209 employees with the birth date in 1952 or the first year of the "silver 
 tsunami" to help the organization prepare by year.
+
 ![June Precip DB](https://user-images.githubusercontent.com/100876517/169728237-c63ad956-63ec-488c-a68d-7c8d19a63176.png)![Dec Precip DB](https://user-images.githubusercontent.com/100876517/169728246-b353b834-fcb2-4f99-afc0-8ace6188b0b5.png)
+
+
 The original mentorship eligibility was based on birthdates in 1965.  The organization may want to consider employees
 eligible for mentorship with birthdates in 1964 as well to provide a larger employee population for mentorship.
 
