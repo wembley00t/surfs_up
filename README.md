@@ -14,13 +14,14 @@ This analysis will include:
 
 The analysis generated 2 tables.
 
-The first table shows the number of employees by title retiring in the near future.
+The first table shows the high level temperature statistics for the month of June.
 
-![Employees Retiring](https://user-images.githubusercontent.com/100876517/167323828-d2d83bfe-5720-4c5d-b428-634d7fb3a749.png)
+![June Temps DB](https://user-images.githubusercontent.com/100876517/169726802-e4977deb-8529-4934-876c-71260f9fa20f.png)
 
-The second table shows the number of employees eligible for the mentorship program.
 
-![mentorship](https://user-images.githubusercontent.com/100876517/167323830-f71ae844-241c-472a-9b6e-c3cbb269e4a7.png)
+The second table shows the high level temperature statistics for the month of December.
+
+![Dec Temps DB](https://user-images.githubusercontent.com/100876517/169726808-f140debc-81d2-4c69-b135-b1a909b8ee52.png)
 
 * Table 1 reflects there are 72,458 employees retiring in the near future over 7 job titles.
 * Table 1 reflects that 70% of the employees retiring are in the Senior Engineer or Senior Staff role.  This is a 
