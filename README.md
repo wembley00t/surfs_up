@@ -14,12 +14,12 @@ This analysis will include:
 
 The analysis generated 2 tables.
 
-The first table shows the level temperature statistics for the month of June.
+The first table shows the temperature statistics for the month of June.
 
 ![June Temps DB](https://user-images.githubusercontent.com/100876517/169726802-e4977deb-8529-4934-876c-71260f9fa20f.png)
 
 
-The second table shows the level temperature statistics for the month of December.
+The second table shows the temperature statistics for the month of December.
 
 ![Dec Temps DB](https://user-images.githubusercontent.com/100876517/169726808-f140debc-81d2-4c69-b135-b1a909b8ee52.png)
 
@@ -49,18 +49,4 @@ tsunami" to help the organization prepare by year.
 
 ![June Precip DB](https://user-images.githubusercontent.com/100876517/169728237-c63ad956-63ec-488c-a68d-7c8d19a63176.png)![Dec Precip DB](https://user-images.githubusercontent.com/100876517/169728246-b353b834-fcb2-4f99-afc0-8ace6188b0b5.png)
 
-
-The original mentorship eligibility was based on birthdates in 1965.  The organization may want to consider employees
-eligible for mentorship with birthdates in 1964 as well to provide a larger employee population for mentorship.
-
-The query below is the updated query to include 1964 and 1965 in the mentorship eligibility category.
-
-![Expanded mentorship query](https://user-images.githubusercontent.com/100876517/167327651-a1321e0a-43df-4582-9cf5-232a890c8c01.png)
-
-The results of this query are below.  
-
-![Expand Mentorship](https://user-images.githubusercontent.com/100876517/167328236-14087157-d385-4358-b1aa-2480d24abad7.png)
-
-By expanding the mentorship eligibility to birthdates of 1964 and 1965, the total number of employees eligible has increased by
-18,356 and in the much needed categories of Senior Engineer and Senior Staff.
 
