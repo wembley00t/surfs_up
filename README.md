@@ -14,21 +14,19 @@ This analysis will include:
 
 The analysis generated 2 tables.
 
-The first table shows the high level temperature statistics for the month of June.
+The first table shows the level temperature statistics for the month of June.
 
 ![June Temps DB](https://user-images.githubusercontent.com/100876517/169726802-e4977deb-8529-4934-876c-71260f9fa20f.png)
 
 
-The second table shows the high level temperature statistics for the month of December.
+The second table shows the level temperature statistics for the month of December.
 
 ![Dec Temps DB](https://user-images.githubusercontent.com/100876517/169726808-f140debc-81d2-4c69-b135-b1a909b8ee52.png)
 
-* Table 1 reflects there are 72,458 employees retiring in the near future over 7 job titles.
-* Table 1 reflects that 70% of the employees retiring are in the Senior Engineer or Senior Staff role.  This is a 
-  significant number of resources and a large risk for the company to fill the knowledge gap.
-* Table 2 reflects there are 1,549 employees eligible for the mentorship program.  This is 2% of the total
-  retiring titles.
-* Table 2 reflects 6 job titles eligible for the mentorship program.
+* The average temperature for the month of June is 75 degrees compared to 71 degrees for December.
+* The max temperature for the month of June is 85 degrees compared to 83 degrees for December.
+* The minimum temperature for the month of June is 64 degrees compared to 56 degrees for December.  
+  This statistic reflects the most difference between the two months.
 
 ## Summary
 
